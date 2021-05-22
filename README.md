@@ -52,7 +52,7 @@ Flutter ile ilgili Türkçe makaleler kategorilerine göre ayrılmış halde bur
 - ✅ [Flutter’ da pro düzeye ulaşmak için gerekli adımlar](https://medium.com/@hubders/flutter-da-pro-d%C3%BCzeye-ula%C5%9Fmak-i%C3%A7in-gerekli-ad%C4%B1mlar-faa6837a03de) - DersHub
 
 #### Widgetlar
-- [Flutter: UI Login Screen Challenge](https://medium.com/flutter-t%C3%BCrkiye/flutter-ui-login-screen-challenge-af6df0356300) - Muhammet Ömer
+- ✅ [Flutter: UI Login Screen Challenge](https://medium.com/flutter-t%C3%BCrkiye/flutter-ui-login-screen-challenge-af6df0356300) - Muhammet Ömer
 - ✅ [Flutter ile WhatsApp arayüzünü tasarlayalım](https://medium.com/flutter-t%C3%BCrkiye/flutter-whatsapp-arayuzu-157ce2e1b1e7) - Alper Tokcan
 - [Flutter ile Clip(Kırpma)](https://medium.com/flutter-t%C3%BCrkiye/flutter-ile-clip-k%C4%B1rpma-ff3b30391deb) - Emre Karataş
 - [Flutter HEALTHO UI 5](https://medium.com/flutter-t%C3%BCrkiye/flutter-healtho-ui-5-55a7b5e17126) - Veli Bacık
