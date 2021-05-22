@@ -37,8 +37,8 @@ Flutter ile ilgili Türkçe makaleler kategorilerine göre ayrılmış halde bur
 
 #### Dart
 - ✅ [Dart Const Eğitici İçerik— Bilmeniz Gereken Her şey(Const İfadeler, Standart Örnekler ve Daha Fazlası)](https://medium.com/flutter-t%C3%BCrkiye/dart-const-e%C4%9Fitici-i%CC%87%C3%A7erik-bilmeniz-gereken-her-%C5%9Fey-const-i%CC%87fadeler-standart-%C3%B6rnekler-ve-daha-fe243f590059) - Beyza Sunay Güler'in Matt Rešetár (Reso Coder)'ın makalesinden çevirisi
-- [Dart dilinde Uzantı Metotları(Extension Methods)](https://medium.com/flutter-i%CC%87zmir/dart-dilinde-uzant%C4%B1-metotlar%C4%B1-extension-methods-912158f92fa1) - Mirkan Çalışkan
-- [Dart Programlama Dili](https://medium.com/@halilozel1903/dart-programlama-dili-eeafb64ad300) - Halil Özel
+- ✅ [Dart dilinde Uzantı Metotları(Extension Methods)](https://medium.com/flutter-i%CC%87zmir/dart-dilinde-uzant%C4%B1-metotlar%C4%B1-extension-methods-912158f92fa1) - Mirkan Çalışkan
+- ✅ [Dart Programlama Dili](https://medium.com/@halilozel1903/dart-programlama-dili-eeafb64ad300) - Halil Özel
 
 #### Flutter'a Giriş
 - [Flutter ile Güzel Kullanıcı Arayüzü Oluşturmak](https://medium.com/flutter-t%C3%BCrkiye/flutter-ile-g%C3%BCzel-kullan%C4%B1c%C4%B1-aray%C3%BCz%C3%BC-olu%C5%9Fturmak-2b8a3c4c7b17) - Mustafa Türkmen'in Flutter codelab çevirisi
