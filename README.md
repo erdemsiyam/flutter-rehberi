@@ -62,7 +62,7 @@ Flutter ile ilgili Türkçe makaleler kategorilerine göre ayrılmış halde bur
 - ✅ [Container, Column, Row…](https://medium.com/flutter-t%C3%BCrkiye/container-column-row-89b31f988605?source=collection_detail----f3fe55e37b59-----24-----------------------) - Zeki Çıplak
 
 #### Network Bağlantıları
-- [Flutter’da Json Parçalama Ve Manipüle Etme: Kripto Para Uygulaması](https://medium.com/flutter-t%C3%BCrkiye/flutterda-json-par%C3%A7alama-ve-manip%C3%BCle-etme-kripto-para-uygulamas%C4%B1-3275c74785dc) - Ozan Doğan
+- ✅ [Flutter’da Json Parçalama Ve Manipüle Etme: Kripto Para Uygulaması](https://medium.com/flutter-t%C3%BCrkiye/flutterda-json-par%C3%A7alama-ve-manip%C3%BCle-etme-kripto-para-uygulamas%C4%B1-3275c74785dc) - Ozan Doğan
 - [Flutter’da API’lar ile Çalışmak](https://medium.com/flutter-t%C3%BCrkiye/flutterda-api-lar-ile-%C3%A7al%C4%B1%C5%9Fmak-e28361c7890d) - Beyza Sunay Güler'in Pooja Baumik'in makalesinden çevirisi
 - [Flutter’da JSON Parçalama](https://medium.com/flutter-t%C3%BCrkiye/flutterda-json-par%C3%A7alama-c35d7f7e39be) - Beyza Sunay Güler'in Pooja Baumik'in makalesinden çevirisi
 
