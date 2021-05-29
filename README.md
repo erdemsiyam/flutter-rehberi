@@ -69,8 +69,8 @@ Flutter ile ilgili Türkçe makaleler kategorilerine göre ayrılmış halde bur
 #### Firebase
 - [Flutter’da Algolia Kullanarak Arama Yapmak](https://medium.com/flutter-t%C3%BCrkiye/flutterda-algolia-kullanarak-arama-yapmak-fb36b05f3cc1) - Mert Toptaş
 - [Flutter Blog -Login](https://medium.com/flutter-t%C3%BCrkiye/flutter-blog-login-857f1d16d3aa) - Veli Bacık
-- [Flutter Projemize Firebase Kitini Nasıl Ekleriz? (part 1)](https://medium.com/flutter-i%CC%87zmir/flutter-projemize-firebase-kitini-nas%C4%B1l-ekleriz-part-1-b8859e9cadef) - Onat Çipli
-- [Firebase ile Kimlik Doğrulama, Giriş Yapma, Üyelik Alma (part 2)](https://medium.com/flutter-i%CC%87zmir/firebase-ile-kimlik-do%C4%9Frulama-giri%C5%9F-yapma-%C3%BCyelik-alma-part-2-912705fdbfad) - Onat Çipli
+- ✅ [Flutter Projemize Firebase Kitini Nasıl Ekleriz? (part 1)](https://medium.com/flutter-i%CC%87zmir/flutter-projemize-firebase-kitini-nas%C4%B1l-ekleriz-part-1-b8859e9cadef) - Onat Çipli
+- ✅ [Firebase ile Kimlik Doğrulama, Giriş Yapma, Üyelik Alma (part 2)](https://medium.com/flutter-i%CC%87zmir/firebase-ile-kimlik-do%C4%9Frulama-giri%C5%9F-yapma-%C3%BCyelik-alma-part-2-912705fdbfad) - Onat Çipli
 
 #### Kütüphaneler
 - [Flutter, Login Bilgisi Tutma](https://medium.com/flutter-t%C3%BCrkiye/flutter-login-bilgisi-tutma-375bb1fa45f5) - Kadir Bekar
