@@ -84,8 +84,8 @@ Flutter ile ilgili Türkçe makaleler kategorilerine göre ayrılmış halde bur
 - [Flutter’da Floor Kullanımı — Sql Kütüphanesi](https://medium.com/flutter-t%C3%BCrkiye/flutterda-floor-kullan%C4%B1m%C4%B1-sql-k%C3%BCt%C3%BCphanesi-3e09e6a3c916) - Mert Toptaş
 
 #### Navigasyon
-- [Flutter’da Temiz Routing](https://medium.com/flutter-i%CC%87zmir/flutterda-temiz-routing-736aaedea55c) - Mirkan Çalışkan
-- [Flutter’da Sayfalar Arası Geçişler](https://medium.com/flutter-t%C3%BCrkiye/flutterda-sayfalar-aras%C4%B1-ge%C3%A7i%C5%9Fler-8b8cdbf317cb?source=collection_detail----f3fe55e37b59-----20-----------------------) - Zeki Çıplak
+- ✅ [Flutter’da Temiz Routing](https://medium.com/flutter-i%CC%87zmir/flutterda-temiz-routing-736aaedea55c) - Mirkan Çalışkan
+- ✅ [Flutter’da Sayfalar Arası Geçişler](https://medium.com/flutter-t%C3%BCrkiye/flutterda-sayfalar-aras%C4%B1-ge%C3%A7i%C5%9Fler-8b8cdbf317cb?source=collection_detail----f3fe55e37b59-----20-----------------------) - Zeki Çıplak
 
 #### Animasyonlar
 - [Flutter’da Animasyonlar: Fizik Tabanlı Animasyonlar](https://medium.com/flutter-i%CC%87zmir/flutterda-animasyonlar-fizik-tabanl%C4%B1-animasyonlar-531d39221560) - Mirkan Çalışkan
