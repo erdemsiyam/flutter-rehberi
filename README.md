@@ -74,7 +74,7 @@ Flutter ile ilgili Türkçe makaleler kategorilerine göre ayrılmış halde bur
 
 #### Kütüphaneler
 - [Flutter, Login Bilgisi Tutma](https://medium.com/flutter-t%C3%BCrkiye/flutter-login-bilgisi-tutma-375bb1fa45f5) - Kadir Bekar
-- [Flutter’da WebView’ların Gücü](https://medium.com/flutter-t%C3%BCrkiye/flutterda-webview-lar%C4%B1n-g%C3%BCc%C3%BC-62a0304987e1) - Beyza Sunay Güler'in Emily Fortuna'nın makalesinden çevirisi
+- [Flutter’da WebView’ların Gücü](https://medium.com/flutter/the-power-of-webviews-in-flutter-a56234b57df2) - Beyza Sunay Güler'in Emily Fortuna'nın makalesinden çevirisi
 - [Flutter Paketi Nasıl Oluştururum ve Yayınlarım](https://medium.com/flutter-t%C3%BCrkiye/nas%C4%B1l-flutter-package-olu%C5%9Fturulur-ve-yay%C4%B1nlar%C4%B1m-d3d0501565f2?source=collection_detail----f3fe55e37b59-----25-----------------------) - Onat Çipli
 - [Flutter’da SVG Kullanımı](https://medium.com/flutter-i%CC%87zmir/flutterda-svg-kullan%C4%B1m%C4%B1-468c8817d3c1) - Mirkan Çalışkan
 - [Flutter’da Pusher Kullanımı](https://medium.com/flutter-i%CC%87zmir/flutterda-pusher-kullan%C4%B1m%C4%B1-b216398fd63d) - Mirkan Çalışkan
